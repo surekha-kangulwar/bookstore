@@ -6,9 +6,9 @@
       <a href="home.php" class="book_logo">Bookiee</a>
 
       </div>
-      <p><i class="fas fa-phone"></i> 1234567890</p>
+      <p><i class="fas fa-phone"></i> 8080308250</p>
       <p><i class="fas fa-envelope"></i> bookiee@gmail.com</p>
-      <p><i class="fas fa-map-marker-alt"></i> Mumbai, India - 902839</p>
+      <p><i class="fas fa-map-marker-alt"></i> Nanded, India - 431605</p>
       <p><i class="fa-solid fa-shop"></i> Shop Timings : 9am - 9pm</p>
     </div>
 
@@ -28,5 +28,5 @@
       <a href="orders.php">Orders</a>
     </div>
   </div>
-  <p>Copyright <i class="fa-regular fa-copyright"></i> 2023 <span>Tanisha Amin | All Rights Reserved.</span></p>
+  <p>Copyright <i class="fa-regular fa-copyright"></i> 2025 <span>Surekha Kangulwar | All Rights Reserved.</span></p>
 </section>
